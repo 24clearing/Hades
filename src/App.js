@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We are trying to build our first application using <code> React <\code>
+          We are trying to build our first application using React
         </p>
         <a
           className="App-link"
